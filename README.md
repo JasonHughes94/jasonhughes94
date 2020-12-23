@@ -2,7 +2,7 @@
 
 **:tangerine: About Me**
 
-I'm a Scottish Software Developer who currently works at Arnold Clark as a Full Stack Software Developer working with .Net Core, React, SQL Server and a bunch of other technologies.
+I'm a Scottish Full Stack Software Developer who currently works at Arnold Clark, I primarily working with .Net Core, React, Azure SQL Server, K8s and Docker.
 
 In my free time I like to work on useless side projects using [Deno](https://deno.land/) that never see the light of day. 😊
 
