@@ -15,15 +15,15 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,239 Contributions in the Year 2020
+> 🏆 1,245 Contributions in the Year 2020
  > 
 > 📦 8.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I Mostly Code in C#** 
 
