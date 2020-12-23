@@ -1,6 +1,6 @@
 <img src="https://github.com/jasonhughes94/jasonhughes94/blob/main/header.png?raw=true">
 
-### About Me
+**:tangerine: About Me**
 
 I'm a Scottish Software Developer who currently works at Arnold Clark as a Full Stack Software Developer working with .Net Core, React, SQL Server and a bunch of other technologies.
 
@@ -8,7 +8,7 @@ In my free time I like to work on useless side projects using [Deno](https://den
 
 I also sometimes post on [Dev.to](https://dev.to/jasonhughes94) about the stuff I'm working on so please drop me a follow to keep updated.
 
-### Get In touch
+**:speech_balloon: Get In touch**
 
 Best way to get in touch would be to drop me a direct message on [Discord](https://discordapp.com/users/206498666976903169) as this is where I am most active.
 
