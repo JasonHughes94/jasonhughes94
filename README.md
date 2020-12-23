@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,240 Contributions in the Year 2020
+> 🏆 1,239 Contributions in the Year 2020
  > 
 > 📦 8.6 kB Used in Github's Storage 
  > 
@@ -21,6 +21,12 @@
 🌃 Evening    84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
 🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
 ```
 
 **I Mostly Code in C#** 
