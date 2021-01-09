@@ -17,7 +17,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 > 🏆 20 Contributions in the Year 2021
  > 
-> 📦 8.6 kB Used in Github's Storage 
+> 📦 8.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
