@@ -15,7 +15,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 21 Contributions in the Year 2021
+> 🏆 26 Contributions in the Year 2021
  > 
 > 📦 8.7 kB Used in Github's Storage 
  > 
@@ -23,7 +23,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 19 Private Repositories  
+> 🔑 20 Private Repositories  
  > 
 **I Mostly Code in C#** 
 
