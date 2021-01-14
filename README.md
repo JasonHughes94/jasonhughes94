@@ -25,6 +25,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
  > 
 > 🔑 20 Private Repositories  
  > 
+> 🏋️ Over 1.5 million KGs squatted 
 **I Mostly Code in C#** 
 
 ```text
