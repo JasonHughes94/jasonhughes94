@@ -15,7 +15,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 366 Contributions in the Year 2021
+> 🏆 383 Contributions in the Year 2021
  > 
 > 📦 8.9 kB Used in Github's Storage 
  > 
