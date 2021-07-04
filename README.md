@@ -15,28 +15,28 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 717 Contributions in the Year 2021
+> 🏆 725 Contributions in the Year 2021
  > 
-> 📦 10.0 kB Used in Github's Storage 
+> 📦 11.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 23 Private Repositories  
+> 🔑 24 Private Repositories  
  > 
-**I Mostly Code in C#** 
+**I Mostly Code in JavaScript** 
 
 ```text
-C#                       18 repos            ████████░░░░░░░░░░░░░░░░░   32.73% 
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73% 
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   33.93% 
+C#                       18 repos            ████████░░░░░░░░░░░░░░░░░   32.14% 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 ```
 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
