@@ -2,7 +2,7 @@
 
 **:tangerine: About Me**
 
-I'm a Scottish Full Stack Software Developer, I primarily work with .Net Core, React, Azure SQL Server, K8s, and Docker.
+I'm a Scottish Full Stack Software Developer who works with the following technologies: .Net Core, React, Azure SQL Server, K8s, and Docker.
 
 In my free time I like to work on useless side projects using [Deno](https://deno.land/) that never see the light of day. 😊
 
