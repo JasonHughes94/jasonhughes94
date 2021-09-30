@@ -15,7 +15,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,019 Contributions in the Year 2021
+> 🏆 1,031 Contributions in the Year 2021
  > 
 > 📦 15.5 kB Used in GitHub's Storage 
  > 
@@ -38,5 +38,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
