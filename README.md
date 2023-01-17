@@ -17,7 +17,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2023
+> 🏆 5 Contributions in the Year 2023
  > 
 > 📦 16.1 kB Used in GitHub's Storage 
  > 
@@ -40,5 +40,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2023 18:42:33 UTC
+ Last Updated on 17/01/2023 18:42:44 UTC
 <!--END_SECTION:waka-->
