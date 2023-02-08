@@ -13,11 +13,11 @@ I also sometimes post on [Dev.to](https://dev.to/jasonhughes94) about the stuff 
 Best way to get in touch would be to drop me a direct message on [Discord](https://discordapp.com/users/206498666976903169) as this is where I am most active.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 48 Contributions in the Year 2023
+> 🏆 58 Contributions in the Year 2023
  > 
 > 📦 16.1 kB Used in GitHub's Storage 
  > 
@@ -30,15 +30,15 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 **I Mostly Code in C#** 
 
 ```text
-C#                       21 repos            ████████░░░░░░░░░░░░░░░░░   34.43% 
-JavaScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   31.15% 
-TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
+C#                       21 repos            ████████░░░░░░░░░░░░░░░░░   34.43 % 
+JavaScript               19 repos            ███████░░░░░░░░░░░░░░░░░░   31.15 % 
+TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 ```
 
 
 
- Last Updated on 07/02/2023 18:43:20 UTC
+ Last Updated on 08/02/2023 18:43:45 UTC
 <!--END_SECTION:waka-->
