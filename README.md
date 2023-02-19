@@ -13,13 +13,13 @@ I also sometimes post on [Dev.to](https://dev.to/jasonhughes94) about the stuff 
 Best way to get in touch would be to drop me a direct message on [Discord](https://discordapp.com/users/206498666976903169) as this is where I am most active.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 67 Contributions in the Year 2023
  > 
-> 📦 16.1 kB Used in GitHub's Storage 
+> 📦 16.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -40,5 +40,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 18:40:47 UTC
+ Last Updated on 19/02/2023 18:41:01 UTC
 <!--END_SECTION:waka-->
