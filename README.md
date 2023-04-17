@@ -19,7 +19,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 > 📦 16.3 kB Used in GitHub's Storage 
  > 
-> 🏆 381 Contributions in the Year 2023
+> 🏆 383 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -40,5 +40,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2023 18:38:21 UTC
+ Last Updated on 17/04/2023 18:38:59 UTC
 <!--END_SECTION:waka-->
