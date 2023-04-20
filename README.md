@@ -13,7 +13,7 @@ I also sometimes post on [Dev.to](https://dev.to/jasonhughes94) about the stuff 
 Best way to get in touch would be to drop me a direct message on [Discord](https://discordapp.com/users/206498666976903169) as this is where I am most active.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,5 +40,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2023 18:38:22 UTC
+ Last Updated on 20/04/2023 18:38:20 UTC
 <!--END_SECTION:waka-->
