@@ -30,15 +30,15 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 **I Mostly Code in C#** 
 
 ```text
-C#                       39 repos            ███████████░░░░░░░░░░░░░░   43.33 % 
-JavaScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+C#                       38 repos            ███████████░░░░░░░░░░░░░░   42.70 % 
+JavaScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 19/07/2023 18:38:31 UTC
+ Last Updated on 20/07/2023 18:39:07 UTC
 <!--END_SECTION:waka-->
