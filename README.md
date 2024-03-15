@@ -17,8 +17,6 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 > 📦 16.5 kB Used in GitHub's Storage 
  > 
-> 🏆 267 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -38,5 +36,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2024 18:38:03 UTC
+ Last Updated on 15/03/2024 18:38:04 UTC
 <!--END_SECTION:waka-->
