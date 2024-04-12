@@ -11,6 +11,8 @@ In my free time I like to work on useless side projects using [Deno](https://den
 Best way to get in touch would be to drop me a direct message on [Discord](https://discordapp.com/users/206498666976903169) as this is where I am most active.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2017%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 17.0 kB Used in GitHub's Storage 
@@ -34,5 +36,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 18:37:59 UTC
+ Last Updated on 12/04/2024 18:37:55 UTC
 <!--END_SECTION:waka-->
