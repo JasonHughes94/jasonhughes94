@@ -15,13 +15,13 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 **🐱 My GitHub Data** 
 
-> 📦 17.0 kB Used in GitHub's Storage 
+> 📦 17.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 32 Private Repositories 
+> 🔑 33 Private Repositories 
  > 
 **I Mostly Code in C#** 
 
@@ -30,11 +30,11 @@ C#                       41 repos            ██████████░�
 JavaScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
 PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 Jupyter Notebook         2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Scala                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
 
 
- Last Updated on 18/04/2024 18:37:58 UTC
+ Last Updated on 19/04/2024 18:38:00 UTC
 <!--END_SECTION:waka-->
