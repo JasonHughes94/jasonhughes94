@@ -15,7 +15,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 **🐱 My GitHub Data** 
 
-> 📦 17.1 kB Used in GitHub's Storage 
+> 📦 17.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -36,5 +36,5 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2024 18:38:06 UTC
+ Last Updated on 21/04/2024 18:38:02 UTC
 <!--END_SECTION:waka-->
