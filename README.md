@@ -17,8 +17,6 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
-> 🏆 848 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -38,5 +36,5 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2024 18:41:53 UTC
+ Last Updated on 23/08/2024 18:41:24 UTC
 <!--END_SECTION:waka-->
