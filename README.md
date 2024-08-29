@@ -17,7 +17,7 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
-> 🏆 849 Contributions in the Year 2024
+> 🏆 852 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -25,18 +25,18 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
  > 
 > 🔑 35 Private Repositories 
  > 
-**I Mostly Code in C#** 
+**I Mostly Code in JavaScript** 
 
 ```text
-C#                       40 repos            ██████████░░░░░░░░░░░░░░░   40.40 % 
-JavaScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Scala                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
+C#                       9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 28/08/2024 18:41:56 UTC
+ Last Updated on 29/08/2024 18:42:51 UTC
 <!--END_SECTION:waka-->
