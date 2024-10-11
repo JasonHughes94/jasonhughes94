@@ -17,6 +17,8 @@ Best way to get in touch would be to drop me a direct message on [Discord](https
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
+> 🏆 217 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -36,5 +38,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2024 18:45:36 UTC
+ Last Updated on 11/10/2024 18:44:40 UTC
 <!--END_SECTION:waka-->
