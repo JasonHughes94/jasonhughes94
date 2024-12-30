@@ -13,7 +13,9 @@ In my free time I like to work on useless side projects using [Deno](https://den
 
 > 📦 27.1 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 🏆 232 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
@@ -32,5 +34,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2024 18:41:35 UTC
+ Last Updated on 30/12/2024 18:44:23 UTC
 <!--END_SECTION:waka-->
