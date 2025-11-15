@@ -17,9 +17,9 @@ In my free time I like to work on useless side projects using [Deno](https://den
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
-> 🔑 38 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
@@ -34,5 +34,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 18:50:36 UTC
+ Last Updated on 15/11/2025 18:46:39 UTC
 <!--END_SECTION:waka-->
