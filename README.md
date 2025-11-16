@@ -7,8 +7,6 @@ I'm a Scottish Full Stack Software Developer who works with the following techno
 In my free time I like to work on useless side projects using [Deno](https://deno.land/) that never see the light of day. 😊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2017%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 27.4 kB Used in GitHub's Storage 
@@ -19,7 +17,7 @@ In my free time I like to work on useless side projects using [Deno](https://den
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
@@ -34,5 +32,5 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:46:39 UTC
+ Last Updated on 16/11/2025 18:46:51 UTC
 <!--END_SECTION:waka-->
