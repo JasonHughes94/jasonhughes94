@@ -11,15 +11,15 @@ In my free time I like to work on useless side projects using [Deno](https://den
 
 **🐱 My GitHub Data** 
 
-> 📦 27.5 kB Used in GitHub's Storage 
+> 📦 29.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 38 Private Repositories 
  > 
 🤖 **AI Coding This Week** 
 
@@ -30,15 +30,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   35.42 % 
-C#                       9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+C#                       9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 24/10/2026 21:05:59 UTC
+ Last Updated on 25/10/2026 21:08:43 UTC
 <!--END_SECTION:waka-->
